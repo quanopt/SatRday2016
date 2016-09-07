@@ -25,9 +25,9 @@ Our main observations of the dataset are the following (based on "common sense" 
 ## Packages used
 The dashboard uses the following packages for data manipulation, calculation and visualization:
  - Shiny
-  - plotly
-  - ggmap
-  - zoo
-  - geosphere
-  - stlplus
-  - xlsx
+ - plotly
+ - ggmap
+ - zoo
+ - geosphere
+ - stlplus
+ - xlsx
