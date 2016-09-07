@@ -1,7 +1,7 @@
 # The sky over Budapest
-### satRday #1, 2016.09.03. - Data Visualization Challenge
+### satRday #1, 2016.09.03. - [Data Visualization Challenge](http://budapest.satrdays.org/#datavizcompo)
 ##### János Oláh, Flórián Deé, Nóra Lengyel, Imre Kocsis, László Gönczy
-##### Quanopt Ltd.
+##### [Quanopt Ltd.](http://quanopt.com/)
 
 ## Dashboard main concept
 Our submission consist of a Shiny dashboard showing the main trends of the flight traffic of the Budapest Airport. The dashboard shows the main connections on a world map, a barchart of the most frequently flewn countries (measured in number of passengers), and two charts concentrating on trend and seasonality of four time series of metrics calculated from the base data. These latter charts show how the volume and efficiency of air traffic changed. We were checking IATA and other pages to see what are the most relevant metrics in this field. 
